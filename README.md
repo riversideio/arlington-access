@@ -12,3 +12,9 @@ those credentials from an active member.
 ```
 ssh username@ipaddress -p port
 ```
+
+## Notes
+
+```
+minicom screen msmtp arduino
+```
